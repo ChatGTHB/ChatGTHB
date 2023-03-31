@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+<h1> <p align="center">Welcome to my page!:tada:</p></h1>
 
 - 🔭 I’m currently working on Information Technology
 - 🌱 I’m currently learning testing tools
@@ -10,8 +12,19 @@
 	</a>
 </p>
 
-- 📫 How to reach me: 
-- [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cihatkose/)
+<h3><p align="center">-----📫 How to reach me-----</p></h3>
+
+<p align="center"> <a href="https://github.com/ChatGTHB" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/cihatkose/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<h1> <p align="center"> ⚡️Stay awesome!⚡️</p></h1>
+
+
+
+
+
+
 
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChatGTHB&color=blueviolet" alt="ChatGTHB" /> </p>
