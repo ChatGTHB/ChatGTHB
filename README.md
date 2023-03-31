@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on Information Technology
 - 🌱 I’m currently learning testing tools
 
+<h3><p align="center">-----📊 GitHub Stats:-----</p></h3>
+
 <p align="center">
 	<a href="https://github.com/ChatGTHB">
 		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=ChatGTHB&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ChatGTHB"/>
