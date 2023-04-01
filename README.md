@@ -6,10 +6,9 @@
 <h3 align="center">🎤About Me</h3>
 
 				- 👨‍💻 I am a Software Development Engineer in Test Candidate from Turkey.
-				- 🔭 I’m currently working on Information Technology
-				- 🌱 I’m currently learning testing tools
-				:seedling: Exploring Technical Content Writing.
-				- :zap: In my free time, I solve problems on Patika and read tech articles.
+				- 🔭 I’m currently working on Information Technology.
+				- 🌱 I’m currently learning testing tools and exploring technical content writing.
+				- ⚡ In my free time, I solve problems on Patika and read tech articles.
 			
 <h3><p align="center">🧰Languages and Tools</p></h3>				
 				
@@ -33,29 +32,23 @@
 	<img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" width="40" height="40"/>
 	<img src="https://img.icons8.com/color/2x/jira.png" alt="jira" width="40" height="40"/>
 <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="jira xray" width="40" height="40"/>
-	<img src="https://p.kindpng.com/picc/s/459-4594466_software-testing-logo-png-transparent-png.png" alt="testing software" width="40" height="40"/>
-</p>
-	 </p>
+	<img src="https://p.kindpng.com/picc/s/459-4594466_software-testing-logo-png-transparent-png.png" alt="testing software" width="40" height="40"/></p></p>
 
 <h3><p align="center">📊 GitHub Stats</p></h3>
 
 <p align="center">
 	<a href="https://github.com/ChatGTHB">
 		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=ChatGTHB&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ChatGTHB"/>
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/>
-	</a>
-</p>
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/></a></p>
 
-<p align="center"<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb" alt="chatgthb" /></a> </p>
+<p align="center"<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb"alt="chatgthb"/</a</p>
 
 <h1> <p align="center"> ⚡️Stay awesome!⚡️</p></h1>
 
 <h3><p align="center">📫 How to reach me</p></h3>
 <p align="center"> <a href="https://github.com/ChatGTHB" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 	<a href="https://www.linkedin.com/in/cihatkose/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-	 <a href = "mailto: cihatkose200@@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</p>
+	 <a href = "mailto: cihatkose200@@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chatgthb&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chatgthb" /> </p>
 
 <!--
