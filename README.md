@@ -5,25 +5,14 @@
 </div>
 <h3 align="center">🎤About Me</h3>
 
-- 👨‍💻 I am a Software Development Engineer in Test Candidate from Turkey.
-- 🔭 I’m currently working on Information Technology
-- 🌱 I’m currently learning testing tools
-:seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on Patika and read tech articles.
-
-<h3><p align="center">📊 GitHub Stats</p></h3>
-
-<p align="left">
-	<a href="https://github.com/ChatGTHB">
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=ChatGTHB&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ChatGTHB"/>
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/>
-	</a>
-</p>
-
-<p align="left"<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb" alt="chatgthb" /></a> </p>
-
-
-<h3 align="center">🧰Languages and Tools</h3>
+				- 👨‍💻 I am a Software Development Engineer in Test Candidate from Turkey.
+				- 🔭 I’m currently working on Information Technology
+				- 🌱 I’m currently learning testing tools
+				:seedling: Exploring Technical Content Writing.
+				- :zap: In my free time, I solve problems on Patika and read tech articles.
+			
+<h3><p align="center">🧰Languages and Tools</p></h3>				
+				
 <p align="center"> 
 	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
@@ -46,7 +35,18 @@
 	<img src="https://p.kindpng.com/picc/s/459-4594466_software-testing-logo-png-transparent-png.png" alt="testing software" width="40" height="40"/>
 </p>
 	 </p>
- 
+
+<h3><p align="center">📊 GitHub Stats</p></h3>
+
+<p align="center">
+	<a href="https://github.com/ChatGTHB">
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=ChatGTHB&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ChatGTHB"/>
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/>
+	</a>
+</p>
+
+<p align="center"<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb" alt="chatgthb" /></a> </p>
+
 <h1> <p align="center"> ⚡️Stay awesome!⚡️</p></h1>
 
 <h3><p align="center">📫 How to reach me</p></h3>
