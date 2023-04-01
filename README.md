@@ -32,7 +32,7 @@
 	<img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" width="40" height="40"/>
 	<img src="https://img.icons8.com/color/2x/jira.png" alt="jira" width="40" height="40"/>
 <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="jira xray" width="40" height="40"/>
-	<img src="https://p.kindpng.com/picc/s/459-4594466_software-testing-logo-png-transparent-png.png" alt="testing software" width="40" height="40"/></p></p>
+<!-- 	<img src="https://p.kindpng.com/picc/s/459-4594466_software-testing-logo-png-transparent-png.png" alt="testing software" width="40" height="40"/></p></p> -->
 
 <h3><p align="center">📊 GitHub Stats</p></h3>
 
