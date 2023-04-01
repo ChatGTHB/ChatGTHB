@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Cihat</h1>
-<h3 align="center">A Software Development Engineer in Test Candidate</h3>
+<h2> <p align="center">Welcome to my page!:tada:</p></h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<h1> <p align="center">Welcome to my page!:tada:</p></h1>
 
+
+### :woman_technologist: About Me :
+I am a Software Development Engineer in Test Candidate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 - 🔭 I’m currently working on Information Technology
 - 🌱 I’m currently learning testing tools
+:seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on Patika and read tech articles.
 
 <h3><p align="center">📊 GitHub Stats</p></h3>
 
