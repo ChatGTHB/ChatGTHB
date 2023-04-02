@@ -8,7 +8,7 @@
 				- 👨‍💻 I am a Software Development Engineer in Test Candidate from Turkey.
 				- 🔭 I’m currently working on Information Technology.
 				- 🌱 I’m currently learning testing tools and exploring technical content writing.
-				- ⚡ In my free time, I solve problems on Patika and read tech articles.
+				- ⚡ In my free time, I solve problems on HackerRank and read tech articles.
 			
 <h3><p align="center">🧰Languages and Tools</p></h3>				
 				
