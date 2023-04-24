@@ -29,6 +29,7 @@
 	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 	<img src="https://www.flowgear.net/wp-content/uploads/2019/03/Rest-API-Large.png" alt="rest api" width="40" height="40"/>
+	<img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="rest assure" width="40" height="40"/>
 	<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/>
 	<img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" width="40" height="40"/>
 	<img src="https://img.icons8.com/color/2x/jira.png" alt="jira" width="40" height="40"/>
