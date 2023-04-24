@@ -26,10 +26,10 @@
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 	<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
-	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+		<img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="rest assure" width="40" height="40"/>
 	<img src="https://www.flowgear.net/wp-content/uploads/2019/03/Rest-API-Large.png" alt="rest api" width="40" height="40"/>
-	<img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="rest assure" width="40" height="40"/>
+	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 	<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/>
 	<img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" width="40" height="40"/>
 	<img src="https://img.icons8.com/color/2x/jira.png" alt="jira" width="40" height="40"/>
