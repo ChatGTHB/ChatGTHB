@@ -5,7 +5,7 @@
 </div>
 <h3 align="center">🎤About Me</h3>
 
-				- 👨‍💻 I am a Software Development Engineer in Test Candidate from Turkey.
+				- 👨‍💻 I am a Software Development Engineer in Test from Turkey.
 				- 🔭 I’m currently working on Information Technology.
 				- 🌱 I’m currently learning testing tools and exploring technical content writing.
 				- ⚡ In my free time, I solve problems on HackerRank and read tech articles.
