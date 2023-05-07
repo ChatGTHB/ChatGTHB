@@ -10,7 +10,7 @@
 				- 🌱 I’m currently learning testing tools and exploring technical content writing.
 				- ⚡ In my free time, I solve problems on HackerRank and read tech articles.
 			
-<h3><p align="center">🧰Languages and Tools</p></h3>				
+<h3><p align="center">🧰Technologies and Tools</p></h3>				
 				
 <p align="center"> 
 	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
