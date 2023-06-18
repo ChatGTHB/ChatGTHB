@@ -21,7 +21,6 @@
 	<img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" alt="maven" width="40" height="40"/>
 		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 	<img src="https://www.labeeb-iot.com/wp-content/uploads/2017/04/JDBC-256-1.png" alt="JDBC" width="40" height="40"/> 
-	<img src="https://w7.pngwing.com/pngs/912/434/png-transparent-sql-logo-microsoft-sql-server-computer-programming-table-query-language-sql-file-icon-miscellaneous-magenta-programming-language-thumbnail.png" alt="sql" width="40" height="40"/>
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 		<img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="rest assure" width="40" height="40"/>
 	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
