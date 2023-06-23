@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+
 <h1 align="center">Hi 👋, I'm Cihat</h1>
 <h2> <p align="center">Welcome to my page!:tada:</p></h2>
 <div align="center">
@@ -45,14 +47,19 @@
 
 <h1> <p align="center"> ⚡️Stay awesome!⚡️</p></h1>
 
-<h3><p align="center">📫 Connect With Me</p></h3>
+<h2><p align="center">📫 Connect With Me</p></h2>
 <p align="center"> <a href="https://github.com/ChatGTHB" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-	<a href="https://www.linkedin.com/in/cihatkose/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-	 <a href = "mailto: cihatkose200@@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br></p>
+	 <a href="https://www.linkedin.com/in/cihatkose/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+	<a href="https://www.hackerrank.com/cihatkose" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> 
+	   <a href = "mailto:cihat.kose@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+    	 <a href = "mailto: cihatkose2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+</br></p>
   
-  ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
-  
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chatgthb&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chatgthb" /> </p>
+
+
 
 
 
