@@ -37,6 +37,8 @@
 
 <h2><p align="center">📊 GitHub Stats</p></h2>
 
+![](./profile-3d-contrib/profile-season-animate.svg)
+
 <p align="center">
 	<a href="https://github.com/ChatGTHB">
 		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=chatgthb&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ChatGTHB"/>
