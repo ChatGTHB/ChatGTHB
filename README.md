@@ -39,8 +39,8 @@
 
 <p align="center">
 	<a href="https://github.com/ChatGTHB">
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=ChatGTHB&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ChatGTHB"/>
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/></a>
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=chatgthb&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ChatGTHB"/>
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chatgthb&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/></a>
 		  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chatgthb&" alt="chatgthb" /></p>
 
 <p align="center"<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage"alt="chatgthb"/</a</p>
