@@ -56,8 +56,10 @@
 	   <a href = "mailto:cihat.kose@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
     	 <a href = "mailto: cihatkose2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </br></p>
+
   
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ChatGTHB/ChatGTHB/blob/output/github-contribution-grid-snake.gif)
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chatgthb&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chatgthb" /> </p>
 
