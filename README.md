@@ -17,7 +17,7 @@
 <p align="center"> 
 	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-		<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="cucumber" width="40" height="40"/>
+	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="cucumber" width="40" height="40"/> </a>
 	<img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" alt="testNG" width="40" height="40"/>
 	<img src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" alt="apachePOI" width="40" height="40"/>
 	<img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" alt="maven" width="40" height="40"/>
@@ -25,6 +25,7 @@
 	<img src="https://www.labeeb-iot.com/wp-content/uploads/2017/04/JDBC-256-1.png" alt="JDBC" width="40" height="40"/> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 		<img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="rest assure" width="40" height="40"/>
+	<a href="http://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" alt="appium" width="40" height="40"/> </a> 
 	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
