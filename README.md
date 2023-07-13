@@ -18,8 +18,10 @@
 	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="cucumber" width="40" height="40"/> </a>
-	<img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" alt="testNG" width="40" height="40"/>
-	<img src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" alt="apachePOI" width="40" height="40"/>
+	<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" alt="TestNG" width="40" height="40"/> </a>
+ <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" alt="ApachePOI" width="40" height="40"/> </a>
+	
+	
 	<img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" alt="maven" width="40" height="40"/>
 		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 	<img src="https://www.labeeb-iot.com/wp-content/uploads/2017/04/JDBC-256-1.png" alt="JDBC" width="40" height="40"/> 
