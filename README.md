@@ -63,7 +63,7 @@
 </br></p>
 
   
-![snake gif](https://github.com/ChatGTHB/ChatGTHB/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ChatGTHB/ChatGTHB/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chatgthb&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chatgthb" /> </p>
