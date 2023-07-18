@@ -42,9 +42,9 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
+  <img height="150" width="150" src="webp/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChatGTHB&" alt="ChatGTHB"/>
-  <img height="150" width="150" src="WEBP/right.webp">
+  <img height="150" width="150" src="webp/right.webp">
   </br>
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=ChatGTHB&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ChatGTHB"/>
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/></a>
