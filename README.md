@@ -41,11 +41,14 @@
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <p align="center">
   <img height="150" width="150" src="webp/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChatGTHB&" alt="ChatGTHB"/>
   <img height="150" width="150" src="webp/right.webp">
   </br>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=ChatGTHB&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ChatGTHB"/>
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/></a>
 </p>
@@ -67,15 +70,4 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chatgthb&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chatgthb" /> </p>
 
-<h1> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h1>
-
-
-
-
-
-
-
-
-
-
-
+<h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
