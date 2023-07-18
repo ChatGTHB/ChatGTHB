@@ -52,7 +52,9 @@
  
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage"alt="chatgthb"/</a</p>
 
-<h1> <p align="center"> ⚡️Stay awesome!⚡️</p></h1>
+<h2> <p align="center">🐍 Watch my contribution graph get eaten by the snake</p></h2>
+
+![snake gif](https://github.com/ChatGTHB/ChatGTHB/blob/output/github-contribution-grid-snake.gif)
 
 <h2><p align="center">📫 Connect With Me</p></h2>
 <p align="center"> <a href="https://github.com/ChatGTHB" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -62,11 +64,10 @@
     	 <a href = "mailto: cihatkose2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </br></p>
 
-  
-![snake gif](https://github.com/ChatGTHB/ChatGTHB/blob/output/github-contribution-grid-snake.svg)
-
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chatgthb&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chatgthb" /> </p>
+
+<h1> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h1>
 
 
 
