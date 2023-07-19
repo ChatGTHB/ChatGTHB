@@ -59,6 +59,7 @@
 <h2> <p align="center">🐍 Watch my contribution graph get eaten by the snake</p></h2>
 
 ![snake gif](https://github.com/ChatGTHB/ChatGTHB/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ChatGTHB/ChatGTHB/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
