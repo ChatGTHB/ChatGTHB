@@ -56,13 +56,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h2> <p align="center">🐍 Watch my contribution graph get eaten by the snake</p></h2>
-
-![snake gif](https://github.com/ChatGTHB/ChatGTHB/blob/output/github-contribution-grid-snake.gif)
-![snake gif](https://github.com/ChatGTHB/ChatGTHB/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <h2><p align="center">📫 Connect With Me</p></h2>
 <p align="center"> <a href="https://github.com/ChatGTHB" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 	 <a href="https://www.linkedin.com/in/cihatkose/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
