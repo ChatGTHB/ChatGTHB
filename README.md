@@ -54,7 +54,7 @@
 	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/></a>
 </p>
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<p align="right"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguages"alt="chatgthb"/</a></p>
+<p align="right"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chatgthb&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage,Issues,Stars"alt="chatgthb"/</a></p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
