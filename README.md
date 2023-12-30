@@ -36,6 +36,9 @@
 	<img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" width="40" height="40"/>
 	<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" 	height="40"/>
 	<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="jira xray" width="40" height="40"/></p>
+        <a href="https://slack.com/intl/en-tr/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="40" height="40"/> </a>
+	<a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="40" height="40"/> </a> 
+
 
 <h2><p align="center">📊 GitHub Stats</p></h2>
 
