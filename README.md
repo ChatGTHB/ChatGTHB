@@ -16,12 +16,11 @@
 				
 <p align="center"> 
 	<a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://w7.pngwing.com/pngs/177/242/png-transparent-plain-old-java-object-programming-language-computer-programming-object-oriented-programming-others-text-logo-computer-programming-thumbnail.png" alt="Java" width="40" height="40"/>
-</a>
+  <img src="https://w7.pngwing.com/pngs/177/242/png-transparent-plain-old-java-object-programming-language-computer-programming-object-oriented-programming-others-text-logo-computer-programming-thumbnail.png" alt="Java" width="40" height="40"/></a>
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>
 	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="Cucumber" width="40" height="40"/></a>
 	<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img 
-  	src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZNfwTzquUVN6IUb8FjEYJu1OYiyVFXWwGX8e2Xl1w9I1JBzZAYdhQOC25vLUlHYbt5AEEvU0HrmudlD0qjOnwD7npivcJRHYWhaAp7E2CKw19GNVJqhmABgdDZmIsRUwFDVOZS_8XwsyN/w400-h126/testng.png?ezimgfmt=rs:400x127/rscb1/ngcb1/notWebP" alt="TestNG" width="40" height="40"/></a>
+src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZNfwTzquUVN6IUb8FjEYJu1OYiyVFXWwGX8e2Xl1w9I1JBzZAYdhQOC25vLUlHYbt5AEEvU0HrmudlD0qjOnwD7npivcJRHYWhaAp7E2CKw19GNVJqhmABgdDZmIsRUwFDVOZS_8XwsyN/w400-h126/testng.png?ezimgfmt=rs:400x127/rscb1/ngcb1/notWebP" alt="TestNG" width="40" height="40"/></a>
 	<a href="https://poi.apache.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" alt="ApachePOI" width="40" height="40"/></a>
 	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" alt="Maven" width="40" 
            height="40"/></a>
