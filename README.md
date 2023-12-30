@@ -15,7 +15,9 @@
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
 				
 <p align="center"> 
-	<a href="https://www.java.com" target="_blank" rel="noopener noreferrer" > <img src="https://w7.pngwing.com/pngs/177/242/png-transparent-plain-old-java-object-programming-language-computer-programming-object-oriented-programming-others-text-logo-computer-programming-thumbnail.png" alt="Java" width="40" height="40"/></a> 
+	<a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://w7.pngwing.com/pngs/177/242/png-transparent-plain-old-java-object-programming-language-computer-programming-object-oriented-programming-others-text-logo-computer-programming-thumbnail.png" alt="Java" width="40" height="40"/>
+</a>
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>
 	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="Cucumber" width="40" height="40"/></a>
 	<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img 
