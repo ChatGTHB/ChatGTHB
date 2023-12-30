@@ -23,7 +23,7 @@
 	<a href="https://poi.apache.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" alt="ApachePOI" width="40" height="40"/></a>
 	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" alt="Maven" width="40" 
            height="40"/></a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/></a> 
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="MySql" width="40" height="40"/></a> 
 	<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noreferrer"> <img src="https://www.labeeb-iot.com/wp-content/uploads/2017/04/JDBC-256-1.png" alt="JDBC" width="40" height="40"/></a> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> 
 	<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="40" height="40"/></a>
