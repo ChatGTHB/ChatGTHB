@@ -1,7 +1,7 @@
 <p align="center"><img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966"/>
 
 <h1 align="center">Hi 👋, I'm Cihat</h1>
-<h2> <p align="center">Welcome to my page!:tada:</p></h2>
+<h2> <p align="center">Welcome to my page! :tada: </p></h2>
 <div align="center">
 	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
