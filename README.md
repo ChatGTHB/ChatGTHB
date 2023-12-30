@@ -15,7 +15,7 @@
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
 				
 <p align="center"> 
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20190623/wyf/kisspng-logo-java-development-kit-portable-network-graphic-5d0f25d657f181.0459559915612738143602.jpg" alt="Java" width="40" height="40"/> </a> 
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" 	width="40" height="40"/> </a>
 	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="Cucumber" 	width="40" height="40"/> </a>
 	<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZNfwTzquUVN6IUb8FjEYJu1OYiyVFXWwGX8e2Xl1w9I1JBzZAYdhQOC25vLUlHYbt5AEEvU0HrmudlD0qjOnwD7npivcJRHYWhaAp7E2CKw19GNVJqhmABgdDZmIsRUwFDVOZS_8XwsyN/w400-h126/testng.png?ezimgfmt=rs:400x127/rscb1/ngcb1/notWebP" alt="TestNG" width="40" height="40"/> </a>
