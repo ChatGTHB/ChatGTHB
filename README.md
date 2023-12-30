@@ -15,7 +15,7 @@
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
 				
 <p align="center"> 
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20190623/wyf/kisspng-logo-java-development-kit-portable-network-graphic-5d0f25d657f181.0459559915612738143602.jpg" alt="Java" width="40" height="40"/></a> 
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/177/242/png-transparent-plain-old-java-object-programming-language-computer-programming-object-oriented-programming-others-text-logo-computer-programming-thumbnail.png" alt="Java" width="40" height="40"/></a> 
 	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>
 	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="Cucumber" width="40" height="40"/></a>
 	<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img 
@@ -24,7 +24,7 @@
 	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" alt="Maven" width="40" 
            height="40"/></a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="MySql" width="40" height="40"/></a> 
-	<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noreferrer"> <img src="https://www.labeeb-iot.com/wp-content/uploads/2017/04/JDBC-256-1.png" alt="JDBC" width="40" height="40"/></a> 
+	<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noreferrer"> <img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" alt="JDBC" width="40" height="40"/></a> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> 
 	<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="40" height="40"/></a>
 	<a href="http://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" alt="Appium" width="40" height="40"/></a> 
