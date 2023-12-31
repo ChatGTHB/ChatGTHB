@@ -8,7 +8,7 @@
 <h2 align="center">🎤About Me</h2>
 
 				- 👨‍💻 I am a ISTQB® CTFL Certified Software Test and Quality Assurance Specialist from Norway.
-				- 🔭 I’m currently working on Information Technology.
+				- 🔭 I’m currently working on Software Test and Quality Assurance.
 				- 🌱 I’m currently learning testing tools and exploring technical content writing.
 				- ⚡ In my free time, I solve problems on HackerRank and read tech articles.
 			
