@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/598abfd1ba6541f6b8d8aeff7857f280)](https://app.codacy.com/gh/ChatGTHB/ChatGTHB?utm_source=github.com&utm_medium=referral&utm_content=ChatGTHB/ChatGTHB&utm_campaign=Badge_Grade)
+
 <p align="center">
 <h1 align="center">Hi 👋, I'm Cihat</h1>
 <h2> <p align="center">Welcome to my page! :tada: </p></h2>
