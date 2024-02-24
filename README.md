@@ -4,6 +4,7 @@
 <div align="center">
 	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2 align="center">🎤About Me</h2>
 
 I have more than 1 year of experience of Manual and Automation Testing with knowledge of Java programming language, various software testing techniques, manuel and automated testing tools such as Selenium, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman and Rest Assured for API Testing, MySQL and JDBC for Database Testing and GitHub.
@@ -11,6 +12,7 @@ I have more than 1 year of experience of Manual and Automation Testing with know
 I have been working in an Agile Team with Agile/Scrum methodology, where I gained experience with preparing manual test cases and automation scripts. I have created test cases for automating UI and API and DB testing. Experienced in all phases of the Software Development Life Cycle (SDLC), its methodologies such as Agile/Scrum.
 
 My passionate commitment to and background so far in the area ensures a solid foundation to quickly add value to any team. My ambition is to become a true top-talent in technical side and to prove a unique excellence in bridging technical and none-technical aspects of IT-enabled services and processes.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 			
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
 				
@@ -44,6 +46,7 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 	<a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord" width="40" height="40"/></a> 
 	</p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2><p align="center">📊 GitHub Stats</p></h2>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
