@@ -7,11 +7,12 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2 align="center">🎤About Me</h2>
 
-I have more than 1 year of experience of Manual and Automation Testing with knowledge of Java programming language, various software testing techniques, manuel and automated testing tools such as Selenium, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman and Rest Assured for API Testing, MySQL and JDBC for Database Testing and GitHub.
+I have over a year of experience in both manual and automated testing, with a solid understanding of Java programming and various software testing techniques. I am skilled in using manual and automated testing tools such as Selenium, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman, and Rest Assured for API Testing.
+Additionally, I have experience in using MySQL and JDBC for Database Testing, as well as GitHub for version control.
 
-I have been working in an Agile Team with Agile/Scrum methodology, where I gained experience with preparing manual test cases and automation scripts. I have created test cases for automating UI and API and DB testing. Experienced in all phases of the Software Development Life Cycle (SDLC), its methodologies such as Agile/Scrum.
+I have been working in an Agile Team, following the Agile/Scrum methodology. During this time, I have gained valuable experience in preparing manual test cases and creating automation scripts. I have successfully automated UI, API, and Database testing by developing comprehensive test cases. Furthermore, I am well-versed in all phases of the Software Development Life Cycle (SDLC), particularly Agile/Scrum methodologies.
 
-My passionate commitment to and background so far in the area ensures a solid foundation to quickly add value to any team. My ambition is to become a true top-talent in technical side and to prove a unique excellence in bridging technical and none-technical aspects of IT-enabled services and processes.
+My passion and dedication in this field have provided me with a strong foundation to contribute effectively to any team. I am motivated to excel in the technical aspect, demonstrating exceptional skills in bridging the gap between technical and non-technical aspects of IT-enabled services and processes.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 			
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
