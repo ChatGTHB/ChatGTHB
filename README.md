@@ -7,12 +7,11 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2 align="center">🎤About Me</h2>
 
-I have over a year of experience in both manual and automated testing, with a solid understanding of Java programming and various software testing techniques. I am skilled in using manual and automated testing tools such as Selenium, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman, and Rest Assured for API Testing.
-Additionally, I have experience in using MySQL and JDBC for Database Testing, as well as GitHub for version control.
+I am a Software Test and Quality Assurance Specialist and an Instructor Mentor at Techno Study, a leading provider of IT education and training. I have over a year of experience in software testing and an ISTQB® CTFL certification that validates my skills and knowledge in this field.
 
-I have been working in an Agile Team, following the Agile/Scrum methodology. During this time, I have gained valuable experience in preparing manual test cases and creating automation scripts. I have successfully automated UI, API, and Database testing by developing comprehensive test cases. Furthermore, I am well-versed in all phases of the Software Development Life Cycle (SDLC), particularly Agile/Scrum methodologies.
+My mission is to ensure the quality and functionality of software applications and systems by applying manual and automated testing techniques and tools, such as Java, Selenium, Cucumber BDD, TestNG, JUnit, Maven, Jenkins, Postman, Rest Assured, MySQL, and JDBC. I have executed and automated various types of testing, including UI, API, and Database testing, using the Agile/Scrum methodology and the user stories' acceptance criteria. I have also developed and implemented test plans, test cases, test strategies, and test scripts, and used GitHub for version control, Jira Xray for reporting, and Apache POI for data-driven testing.
 
-My passion and dedication in this field have provided me with a strong foundation to contribute effectively to any team. I am motivated to excel in the technical aspect, demonstrating exceptional skills in bridging the gap between technical and non-technical aspects of IT-enabled services and processes.
+As an instructor mentor, I also assist and coach bootcamp students in setting up their environment, understanding the curriculum, and overcoming any challenges they face during the course. I explain the road map and the applications we are going to use, schedule instant meetings whenever needed, and follow-up group projects with team leads. I enjoy sharing my expertise and experience with the students and helping them achieve their learning goals.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 			
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
