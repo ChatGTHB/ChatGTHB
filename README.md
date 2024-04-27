@@ -69,12 +69,7 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <h2><p align="center">📫 Connect With Me</p></h2>
 <p align="center">  
 	<a href="https://www.linkedin.com/in/cihatkose/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>              
@@ -84,6 +79,9 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 	<a href = "mailto: cihatkose.no@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 	</br>
 </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h2> <p align="center"> Keep coding! 💻 Stay awesome! ✨ </p></h2>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
