@@ -7,11 +7,12 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2 align="center">🎤About Me</h2>
 
-I am a Software Test and Quality Assurance Specialist and an Instructor Mentor at Techno Study, a leading provider of IT education and training. I have over a year of experience in software testing and an ISTQB® CTFL certification that validates my skills and knowledge in this field.
-
-My mission is to ensure the quality and functionality of software applications and systems by applying manual and automated testing techniques and tools, such as Java, Selenium, Cucumber BDD, TestNG, JUnit, Maven, Jenkins, Postman, Rest Assured, MySQL, and JDBC. I have executed and automated various types of testing, including UI, API, and Database testing, using the Agile/Scrum methodology and the user stories' acceptance criteria. I have also developed and implemented test plans, test cases, test strategies, and test scripts, and used GitHub for version control, Jira Xray for reporting, and Apache POI for data-driven testing.
-
-As an instructor mentor, I also assist and coach bootcamp students in setting up their environment, understanding the curriculum, and overcoming any challenges they face during the course. I explain the road map and the applications we are going to use, schedule instant meetings whenever needed, and follow-up group projects with team leads. I enjoy sharing my expertise and experience with the students and helping them achieve their learning goals.
+ISTQB certified, dedicated, and detail-oriented SDET with extensive experience in both manual and automated testing
+for web-based and mobile applications. Proficient in Java, Selenium, TestNG, Cucumber BDD, Maven, JUnit, Jenkins,
+Postman, and Rest Assured. Skilled in database testing with MySQL and JDBC, and version control using Git/GitHub.
+Former judge with a strong emphasis on effective communication and analytical skills, enhancing collaboration and
+team performance within Agile/Scrum teams. This unique background brings meticulous attention to detail and a
+deep understanding of regulatory and compliance requirements to the IT field.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 			
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
