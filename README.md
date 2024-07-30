@@ -49,10 +49,10 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2><p align="center">📊 GitHub Stats</p></h2>
-<!--
+
 ![](./profile-3d-contrib/profile-season-animate.svg)
-<!--
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
 	<img height="150" width="150" src="webp/left.webp">
