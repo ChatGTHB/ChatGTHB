@@ -21,7 +21,7 @@ deep understanding of regulatory and compliance requirements to the IT field.
  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
   <img src="https://w7.pngwing.com/pngs/177/242/png-transparent-plain-old-java-object-programming-language-computer-programming-object-oriented-programming-others-text-logo-computer-programming-thumbnail.png" alt="Java" width="40" height="40"/></a>
 	<a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/></a>
-	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>
+	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="Selenium" width="40" height="40"/></a>
 	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="Cucumber" width="40" height="40"/></a>
 	<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img 
 src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZNfwTzquUVN6IUb8FjEYJu1OYiyVFXWwGX8e2Xl1w9I1JBzZAYdhQOC25vLUlHYbt5AEEvU0HrmudlD0qjOnwD7npivcJRHYWhaAp7E2CKw19GNVJqhmABgdDZmIsRUwFDVOZS_8XwsyN/w400-h126/testng.png?ezimgfmt=rs:400x127/rscb1/ngcb1/notWebP" alt="TestNG" width="40" height="40"/></a>
