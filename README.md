@@ -37,6 +37,7 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 	<a href="http://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" alt="Appium" width="40" height="40"/></a> 
 	<a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/C114Brg/imageedit-9-3670423130.png" alt="Robot Framework" width="40" height="40"/></a> 
 	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a> 
+	<a href="https://locust.io/" target="_blank" rel="noopener noreferrer"> <img src="https://locust.io/static/img/favicon.ico" alt="Locust" width="40" height="40"/></a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a> 
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
