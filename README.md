@@ -13,12 +13,7 @@
 
 <h2 align="center">🎤 About Me</h2>
 
-ISTQB certified, detail-oriented SDET with extensive experience in manual and automated testing for web-based and mobile applications.  
-Proficient in Java, Selenium, Playwright, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman, and Rest Assured.  
-Skilled in database testing with MySQL and JDBC, and version control using Git/GitHub.  
-Extensive experience in public sector projects, focusing on regulatory compliance, analytical skills, and teamwork.  
-Former judge with experience in handling complex cases. This enhanced problem-solving skills and attention to detail within Agile/Scrum environments.  
-Passionate about quality assurance and continuous improvement.  
+ISTQB certified, detail-oriented SDET with extensive experience in manual and automated testing for web-based and mobile applications.  Proficient in Java, Selenium, Playwright, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman, and Rest Assured.  Skilled in database testing with MySQL and JDBC, and version control using Git/GitHub. Extensive experience in public sector projects, focusing on regulatory compliance, analytical skills, and teamwork. Former judge with experience in handling complex cases. This enhanced problem-solving skills and attention to detail within Agile/Scrum environments. Passionate about quality assurance and continuous improvement.  
 
 <hr>
 
