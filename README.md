@@ -56,17 +56,17 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 
 <p align="center">
 <!-- 	<img height="150" width="150" src="webp/left.webp">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChatGTHB&" alt="ChatGTHB"/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cihat-kose&" alt="cihat-kose"/>
 	<img height="150" width="150" src="webp/right.webp">
 	</br>
 	<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-        <img height="200em" align="center" src="https://github-contributor-stats.vercel.app/api?username=ChatGTHB&limit=5&theme=light&combine_all_yearly_contributions=true="/></a>
-	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/></a>
+        <img height="200em" align="center" src="https://github-contributor-stats.vercel.app/api?username=cihat-kose&limit=5&theme=light&combine_all_yearly_contributions=true="/></a>
+	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cihat-kose&show_icons=true&locale=en&layout=compact&langs_count=8" alt="cihat-kose"/></a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!-- <p align="right">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=chatgthb&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage,Issues,Stars"alt="chatgthb"/</a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=cihat-kose&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage,Issues,Stars"alt="cihat-kose"/</a>
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
@@ -74,7 +74,7 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2><p align="center">📫 Connect With Me</p></h2>
 <p align="center">  
-	<a href="https://www.linkedin.com/in/cihatkose/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>              
+	<a href="https://www.linkedin.com/in/cihat-kose/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>              
 	<a href="https://www.hackerrank.com/cihatkose" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> 
 	<a href="mailto:cihat.kose@hotmail.com" rel="noopener noreferrer"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 	<a href="https://www.postman.com/cihatkose" target="_blank" rel="noopener noreferrer"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
@@ -87,4 +87,4 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=chatgthb&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chatgthb" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cihat-kose&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="cihat-kose" /> </p>
