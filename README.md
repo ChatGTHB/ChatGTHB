@@ -30,7 +30,7 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 	<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noreferrer"> <img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" alt="JDBC" width="40" height="40"/></a> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> 
 	<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="40" height="40"/></a>
-	<a href="http://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" alt="Appium" width="40" height="40"/ </a> 
+	<a href="http://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" alt="Appium" width="40" height="40"/></a> 
 	<a href="https://robotframework.org/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/C114Brg/imageedit-9-3670423130.png" alt="Robot Framework" width="40" height="40"/></a> 
 	<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a> 
 	<a href="https://locust.io/" target="_blank" rel="noopener noreferrer"> <img src="https://locust.io/static/img/favicon.ico" alt="Locust" width="40" height="40"/></a>
