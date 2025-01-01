@@ -77,7 +77,7 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 </p>
 
 <p align="center">
-  <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" width="70%"/>
+  <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" width="80%"/>
 </p>
 
 <hr>
