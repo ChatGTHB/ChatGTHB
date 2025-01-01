@@ -19,12 +19,8 @@ ISTQB certified, detail-oriented SDET with extensive experience in manual and au
 
 <h2 align="center">🏅 Certifications and Badges</h2>
 <p align="center">
-	<a href="https://app.diplomasafe.com/en-US/s/3d17279262ab9607" target="_blank">
-		<img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISTQB Certified Tester"/>
-	</a>
-	<a href="https://www.hackerrank.com/cihatkose" target="_blank">
-		<img src="https://img.shields.io/badge/Hackerrank-Java%205%20Star-yellow?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Java 5 Star"/>
-	</a>
+	<a href="https://app.diplomasafe.com/en-US/s/3d17279262ab9607" target="_blank"> <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISTQB Certified Tester"/></a>
+	<a href="https://www.hackerrank.com/cihatkose" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Java%205%20Star-yellow?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Java 5 Star"/></a>
 </p>
 
 <hr>
