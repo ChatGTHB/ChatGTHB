@@ -70,18 +70,11 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 ⚡ Discover my GitHub contributions, coding activity, and project stats!
 </p>
 
-<p align="center">
-    <span style="display: inline-block; vertical-align: middle;">
-        <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=cihat-kose&theme=tokyonight" alt="cihat-kose streak stats"/>
-    </span>
-    <span style="display: inline-block; vertical-align: middle;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihat-kose&layout=compact&langs_count=8&theme=tokyonight"/>
-    </span>
-    <span style="display: inline-block; vertical-align: middle;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cihat-kose&show_icons=true&theme=tokyonight" alt="cihat-kose GitHub stats"/>
-    </span>
-</p>
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=cihat-kose&theme=tokyonight" alt="cihat-kose streak stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihat-kose&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cihat-kose&show_icons=true&theme=tokyonight" alt="cihat-kose GitHub stats"/>
+</div>
 
 <p align="center">
   <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" width="70%"/>
