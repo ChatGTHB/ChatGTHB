@@ -34,7 +34,7 @@ ISTQB certified, detail-oriented SDET with extensive experience in manual and au
  	<a href="https://www.java.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/></a>
 	<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/></a>
 	<a href="https://playwright.dev" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/></a>
-	<a href="https://www.selenium.dev" target="_blank"><img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="Selenium" width="40" height="40"/></a>
+ 	<a href="https://www.selenium.dev" target="_blank"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/></a>
 	<a href="https://www.cypress.io" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_10f53e90961b98df0191922f13efd135/cypress.png" alt="Cypress" width="40" height="40"/></a>
 	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="Cucumber" width="40" height="40"/></a>
 	<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img 
