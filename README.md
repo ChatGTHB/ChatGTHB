@@ -71,9 +71,9 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 </p>
 
 <p align="center">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=cihat-kose&theme=tokyonight" alt="cihat-kose streak stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihat-kose&layout=compact&langs_count=8&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cihat-kose&show_icons=true&theme=tokyonight" alt="cihat-kose GitHub stats"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cihat-kose&theme=tokyonight" alt="cihat-kose streak stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihat-kose&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cihat-kose&show_icons=true&theme=tokyonight" alt="cihat-kose GitHub stats"/>
 </p>
 
 <p align="center">
