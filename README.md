@@ -69,10 +69,11 @@ ISTQB certified, detail-oriented SDET with extensive experience in manual and au
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cihat-kose&theme=tokyonight" alt="cihat-kose streak stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihat-kose&layout=compact&langs_count=8&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cihat-kose&show_icons=true&theme=tokyonight" alt="cihat-kose GitHub stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=cihat-kose&theme=tokyonight&cache_seconds=60" alt="cihat-kose streak stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihat-kose&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cihat-kose&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="cihat-kose GitHub stats"/>
 </p>
+
 
 <p align="center">
   <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" width="80%"/>
