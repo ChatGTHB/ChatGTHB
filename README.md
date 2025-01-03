@@ -50,8 +50,8 @@
 	<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="Cucumber" width="40" height="40"/></a>
 	<a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://www.pcloudy.com/wp-content/uploads/2021/03/7.jpg" alt="TestNG" width="40" height="40"/></a>
 	<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://browserstack.wpengine.com/wp-content/uploads/2024/01/JUnit5-icon.svg" alt="JUnit 5" width="40" height="40"/></a>
-	<a href="https://poi.apache.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" alt="ApachePOI" width="40" height="40"/></a>
-	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" alt="Maven" width="40" height="40"/></a>
+	<a href="https://poi.apache.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXG20pfTUGttyFUZK6s16ozY02CFsDiju9V68INJDQxBOovK10R8aBnZOOMneij3atRA&usqp=CAU" alt="ApachePOI" width="40" height="40"/></a>
+	<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc-fX-6ncZTctodZRvv5XtSgZoG-aEfH8xXQ&s" alt="Maven" width="40" height="40"/></a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="MySql" width="40" height="40"/></a>
 	<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noreferrer"> <img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" alt="JDBC" width="40" height="40"/></a>
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
