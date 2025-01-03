@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=cihat-kose&theme=tokyonight&cache_seconds=60" alt="cihat-kose streak stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=cihat-kose&theme=tokyonight&cache_seconds=86400" alt="cihat-kose streak stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihat-kose&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cihat-kose&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="cihat-kose GitHub stats"/>
 </p>
