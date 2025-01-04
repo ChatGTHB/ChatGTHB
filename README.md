@@ -83,11 +83,10 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=cihat-kose&theme=prussian&cache_seconds=86400" alt="cihat-kose streak stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihat-kose&layout=compact&langs_count=8&theme=prussian&cache_seconds=86400" alt="cihat-kose top langs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cihat-kose&show_icons=true&theme=prussian&cache_seconds=86400" alt="cihat-kose GitHub stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=cihat-kose&theme=react&cache_seconds=86400" alt="cihat-kose streak stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihat-kose&layout=compact&langs_count=8&theme=react&cache_seconds=86400" alt="cihat-kose top langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cihat-kose&show_icons=true&theme=react&cache_seconds=86400" alt="cihat-kose GitHub stats"/>
 </p>
-
 
 <p align="center">
   <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" width="80%"/>
