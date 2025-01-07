@@ -83,8 +83,8 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/cihat-kose?theme=react" alt="cihat-kose GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihat-kose&layout=compact&langs_count=8&theme=react&cache_seconds=3600" alt="cihat-kose top langs"/>
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/cihat-kose?theme=react&border=0" alt="cihat-kose GitHub stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cihat-kose&theme=react&show_icons=true&hide_border=true" alt="cihat-kose top langs"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cihat-kose&theme=react&hide_border=true" alt="cihat-kose streak stats"/>
 </p>
 
