@@ -92,7 +92,7 @@
   <!-- Genel İstatistikler Kartı -->
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cihat-kose&theme=react" alt="Genel İstatistikler"/>
   <!-- Üretken Zaman Kartı (UTC +0) -->
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cihat-kose&theme=react&utcOffset=0" alt="Üretken Zaman"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cihat-kose&theme=react&utcOffset=01" alt="Üretken Zaman"/>
 </p>
 
 <p align="center">
