@@ -83,18 +83,17 @@
 </p>
 
 <p align="center">
+  <!-- Profil Detayları Kartı -->
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cihat-kose&theme=react" alt="Profil Detayları"/>
   <!-- Depolarda Kullanılan Diller Kartı -->
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cihat-kose&theme=nord_dark" alt="Depo Dilleri"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cihat-kose&theme=react" alt="Depo Dilleri"/>
   <!-- En Çok Kodlanan Diller Kartı -->
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cihat-kose&theme=nord_dark" alt="En Çok Kodlanan Diller"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cihat-kose&theme=react" alt="En Çok Kodlanan Diller"/>
   <!-- Genel İstatistikler Kartı -->
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cihat-kose&theme=nord_dark" alt="Genel İstatistikler"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cihat-kose&theme=react" alt="Genel İstatistikler"/>
   <!-- Üretken Zaman Kartı (UTC +0) -->
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cihat-kose&theme=nord_dark&utcOffset=0" alt="Üretken Zaman"/>
-    <!-- Profil Detayları Kartı -->
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cihat-kose&theme=nord_dark" alt="Profil Detayları"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cihat-kose&theme=react&utcOffset=0" alt="Üretken Zaman"/>
 </p>
-
 
 <p align="center">
   <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" width="80%"/>
